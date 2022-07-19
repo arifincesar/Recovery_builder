@@ -15,9 +15,9 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-9.0
-  DEVICE: beluga-user-9-PXDR.201012.001-109-release-keys
-  DT_LINK: https://github.com/twrpdtgen/android_device_oppo_beluga/tree/beluga-user-9-PXDR.201012.001-109-release-keys
-  DT_PATH: device/OW19W8AP/beluga-user-9-PXDR.201012.001-109-release-keys
+  DEVICE: android_device_oppo_beluga
+  DT_LINK: https://github.com/arifincesar/android_device_oppo_beluga
+  DT_PATH: device/beluga/android_device_oppo_beluga
   TARGET: recoveryimage
   BUILD: recovery
   OT: omni_
